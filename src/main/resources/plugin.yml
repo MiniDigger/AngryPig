@@ -1,0 +1,9 @@
+name: AngryPig
+version: '${version}'
+main: dev.benndorf.angrypig.AngryPig
+api-version: 1.18
+authors: [ MiniDigger ]
+commands:
+  angrypig:
+    permission: angrypig
+    description: Spawns the angry pig
